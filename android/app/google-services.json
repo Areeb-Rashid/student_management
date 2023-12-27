@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024828460837",
+    "project_id": "semester-project-db",
+    "storage_bucket": "semester-project-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024828460837:android:030d227dd85359348bd4cc",
+        "android_client_info": {
+          "package_name": "com.example.student_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkZzi-kPWeNMLgB16s7k7g4djr2vRO7zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
